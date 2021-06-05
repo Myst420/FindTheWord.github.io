@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+/*font-family: 'Orbitron', sans-serif;*/
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: Orbitron;
+}
+
+
+.header {
+  background: #111;
+  text-align: center;
+  color: #FAA52D;
+  letter-spacing: 3px;
+  font-size: 30px;
+   font-family: Orbitron;
+}
+
+.main {
+  background-color: #262626;
+  text-align: center;
+  padding-top: 200px;
+  padding-right: 100px;
+  line-height: 40px;
+}
+.main h2 {
+  font-size: 30px;
+}
+.main ul {
+  list-style: none;
+}
+.main ul li {
+  font-size: 20px;
+}
+.main button {
+  background-color:  #FAA52D;
+  margin: 40px;
+  padding: 20px 40px;
+}
+.container {
+  background-color: #262626;
+  width: 2000px;
+  height: 1000px;
+  color: #FAA52D;
+}
+
+.main h2{
+ color: #FAA52D;
+ font-family: Orbitron;
+}
+.main h2 a{
+ color: #FAA52D;
+
+}
+
+
+/*level-1*/
+
+.main-lv-1 h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-right: 100px;
+}
+
+.main-game h3 a{
+  padding-top: 0px;
+  color: #FAA52D;
+  text-align: center;
+}
+.main-game h3{
+  padding-top: 200px;
+  padding-left: 400px;
+}
+.main-game {
+  width: 1000px;
+  height: 600px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 60px;
+  background-color: #FAA52D;
+}
+.main-game h3 a:hover {
+  color: white;
+}
+
+
+/*level-2*/
+
+.main-lv-2 h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-right: 100px;
+}
+
+.main-game-2 h3 a{
+  padding-top: 0px;
+  color: #FAA52D;
+  text-align: center;
+}
+.main-game-2 h3{
+  padding-top: 100px;
+  padding-left: 600px;
+}
+.main-game-2 {
+  width: 1000px;
+  height: 600px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 60px;
+  background-color: #FAA52D;
+}
+.main-game-2 h3 a:hover {
+  color: white;
+}
+
+
+/*level-3*/
+
+.main-lv-3 h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-right: 100px;
+}
+
+.main-game-3 h3 a{
+  padding-top: 0px;
+  color: #FAA52D;
+  text-align: center;
+}
+.main-game-3 h3{
+  padding-top: 50px;
+  padding-left: 900px;
+}
+.main-game-3 {
+  width: 1000px;
+  height: 600px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 60px;
+  background-color: #FAA52D;
+}
+.main-game-3 h3 a:hover {
+  color: white;
+}
+
+
+
+/*level-4*/
+
+.main-lv-4 h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-right: 100px;
+}
+
+.main-game-4 h3 a{
+  padding-top: 0px;
+  color: #FAA52D;
+  text-align: center;
+}
+.main-game-4 h3{
+  padding-top: 500px;
+  padding-left: 50px;
+}
+.main-game-4 {
+  width: 1000px;
+  height: 600px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 60px;
+  background-color: #FAA52D;
+}
+.main-game-4 h3 a:hover {
+  color: white;
+}
+
+
+/*level-5*/
+
+.main-lv-5 h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-right: 100px;
+}
+
+.main-game-5 h3 a{
+  padding-top: 0px;
+  color: #FAA52D;
+  text-align: center;
+}
+.main-game-5 h3{
+  padding-top: 500px;
+  padding-left: 900px;
+}
+.main-game-5 {
+  width: 1000px;
+  height: 600px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 60px;
+  background-color: #FAA52D;
+}
+.main-game-5 h3 a:hover {
+  color: white;
+}
+
+
+.main-end h2 {
+  font-size: 60px;
+  padding-top: 300px;
+  padding-left: 700px;
+}
+
+.main-end h3 {
+  font-size: 40px;
+  padding-top: 50px;
+  padding-left: 670px;
+}
+
+.main-end h4 {
+  font-size: 40px;
+  padding-top: 50px;
+  padding-left: 670px;
+}
